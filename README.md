@@ -1,5 +1,5 @@
 # Dash-App
-This dash application can be used to upload csv files to visualize and analyse the data using different statistical techniques.  
+This dash application can be used to upload csv files and visualize and analyse the data using different statistical techniques.  
 
 ## Features added so far:
 
