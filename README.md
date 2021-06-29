@@ -13,4 +13,7 @@ This dash application can be used to upload csv files and visualize and analyse 
 8. Exploratory Factor Analysis
 9. Sensitivity Analysis (SOBOL and Delta)
 10. ANOVA (Analysis of Variance) - One-way and Two-way
+11. Generate report in HTML format
 
+## Screenshot of the application 
+![alt text](https://github.com/Suriya-Arulselvan/Dash-App/ReadmeBlob/DashApp Screenshot.png)
