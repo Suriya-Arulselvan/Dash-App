@@ -16,4 +16,4 @@ This dash application can be used to upload csv files and visualize and analyse 
 11. Generate report in HTML format
 
 ## Screenshot of the application 
-![alt text](https://github.com/Suriya-Arulselvan/Dash-App/ReadmeBlob/DashApp%20Screenshot.png)
+![alt text](https://github.com/Suriya-Arulselvan/Dash-App/blob/64ef5d889e02048093f9e5400feaa78839395cda/ReadmeBlob/DashApp%20Screenshot.png)
