@@ -1,7 +1,7 @@
 # Dash-App
 This dash application can be used to upload csv files to visualize and analyse the data using different statistical techniques.  
 
-## Features implemented:
+## Features added so far:
 
 1. Scatter Plot
 2. 2D and 3D Graphs
