@@ -1,0 +1,30 @@
+PRIORITY
+
+5. Auto-size subplots
+
+DONE 1. Title each graph
+
+DONE 6. Select color scale for each plot - PCA , parallel
+
+DONE 2. Create divisions for each subplots - create styles for each of them
+
+DONE 3. Test with multicase analysis results
+
+DONE 4. Performance with large data - create tabs for each analysis
+
+7. Horizontal variable names for scatter plot and PCA, slanted for parallel coordinates
+
+8. Create_distPlot is not performant
+
+9. Use go.splom instead of px.scatter_matrix Add color scale for scatter plot. 
+
+DONE 10. Additional checks in 2d and 3d plots
+
+DONE 11. Modularize the project structure
+
+DONE 12. BugFixes pending in factor analysis
+
+13. SVR and Kernel Ridge regression for 3D plots
+
+
+
